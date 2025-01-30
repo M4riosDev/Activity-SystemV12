@@ -3,4 +3,4 @@
 2 Change The Config.json
 3 Y re ready
 
-uploaded by ⚡ MariOS ⚡#7151
+uploaded by m4r1os
